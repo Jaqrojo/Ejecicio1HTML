@@ -1,0 +1,22 @@
+p {
+  height: 200px
+
+}
+.card {
+  font-family:sans-serif;
+  width: 400px;
+ }
+.title{
+  font-size:30px;
+  text-align: center;
+}
+.card-image{
+  width:50%;
+}
+.description-title{
+  font-size:24px;
+  text-align: 18px;
+}
+.description{
+  font-size: 18px;
+}
